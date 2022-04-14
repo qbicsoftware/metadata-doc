@@ -1,7 +1,7 @@
 # metadata-doc
 Collection of metadata sheets for QBiC, NCCT and PxP projects.
 
-For Microbiology projects, please use the [Microbiology_Metadata_Sheet_1.6.xlsx](https://github.com/qbicsoftware/metadata-doc/blob/master/Microbiology_Metadata_Sheet_1.5.xlsx).
+For Microbiology projects, please use the [Microbiology_Metadata_Sheet_1.6.xlsx](https://github.com/qbicsoftware/metadata-doc/blob/update_metadata_sheet_April2022/Microbiology_Metadata_Sheet_1.6.xlsx).
 
 For all other projects: 
   1) in case RNA or DNA or tissue samples are to be sequenced, please use the [NGS_Metadata_Sheet_1.5.xlsx](https://github.com/qbicsoftware/metadata-doc/blob/master/NGS_Metadata_Sheet_1.4.xlsx) 
