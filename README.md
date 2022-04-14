@@ -9,4 +9,4 @@ For all other projects with our sequencing partner c.ATG/IMGAG,
 
 For COVID-19 projects, please use either [COVID19_Microbiology_Metadata_Sheet_1.1.xlsx](https://github.com/qbicsoftware/metadata-doc/blob/master/COVID19/COVID19_Microbiology_Metadata_Sheet_1.1.xlsx) or [COVID19_NGS_Metadata_Sheet_1.1.xlsx](https://github.com/qbicsoftware/metadata-doc/blob/master/COVID19/COVID19_NGS_Metadata_Sheet_1.1.xlsx).
 
-For Proteomics projects, please use the sheet [20220119_PxP_customer_metadata_v6.docx] (https://github.com/qbicsoftware/metadata-doc/blob/update_metadata_sheet_April2022/20220119_PxP_customer_metadata_v6.docx).
+For Proteomics projects, please use the sheet [20220119_PxP_customer_metadata_v6.docx](https://github.com/qbicsoftware/metadata-doc/blob/update_metadata_sheet_April2022/20220119_PxP_customer_metadata_v6.docx).
