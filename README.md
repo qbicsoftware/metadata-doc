@@ -2,7 +2,7 @@
 Collection of metadata sheets for NGS/sequencing and Proteomics projects run with QBiC.
 
 1) **NGS**  
-For NGS-related projects with our sequencing partners of the NCCT (c.ATG/IMGAG and MGM/Microbiology), please use the sheet [NGS_Metadata_Sheet_1.6.xlsx](https://github.com/qbicsoftware/metadata-doc/raw/master/NGS_Metadata_Sheet_1.6.xlsx).
+For NGS-related projects with our sequencing partners of the NCCT (c.ATG/IMGAG and MGM/Microbiology), please use the sheet [NGS_Metadata_Sheet_1.7.2.xlsx](https://github.com/qbicsoftware/metadata-doc/raw/update_metadata_sheet_November2022/NGS_Metadata_Sheet_1.7.2.xlsx).
 
 | NGS Examples | Description                               |
 |----------------------|-------------------------------------------|
