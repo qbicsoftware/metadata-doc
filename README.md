@@ -12,4 +12,4 @@ For NGS-related projects with our sequencing partners of the NCCT (c.ATG/IMGAG a
 | [tba]         | some words of explanation        |
 
 2) **Proteomics**  
-For Proteomics-related projects as part of the PxP Platform of QBiC, please use the sheet [20220119_PxP_customer_metadata_v6.docx](https://github.com/qbicsoftware/metadata-doc/raw/master/20220119_PxP_customer_metadata_v6.docx)
+For Proteomics-related projects as part of the PxP Platform of QBiC, please use the sheet [20220119_PxP_customer_metadata_v6.docx](https://github.com/qbicsoftware/metadata-doc/raw/master/20220119_PxP_customer_metadata_v7.docx)
