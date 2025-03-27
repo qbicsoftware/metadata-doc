@@ -7,5 +7,5 @@ For NGS-related projects with our sequencing partners of the NCCT (c.ATG/IMGAG a
 2) **Proteomics**  
 For Proteomics-related projects as part of the PxP Platform of QBiC, please use the sheet [20230110_PxP_customer_metadata_v7.docx](https://github.com/qbicsoftware/metadata-doc/raw/master/20230110_PxP_customer_metadata_v7.docx)
 
-3) **Imaging**
-For Bioimaging-related projects. Please use the sheet [20230110_PxP_customer_metadata_v7.docx](https://github.com/qbicsoftware/metadata-doc/raw/master/20230110_PxP_customer_metadata_v7.docx)
+3) **BioImaging**
+For Bioimaging-related projects. Please use the sheet [Bioimaging_Project_Metadata.xlsx](https://github.com/qbicsoftware/metadata-doc/raw/master/Bioimaging_Project_Metadata.xlsx)
